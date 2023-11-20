@@ -1,4 +1,4 @@
-### *포인터*
+### *Pointers in C*
 *문제*<br>
 Complete the function void update(int *a,int *b). <br>
 It receives two integer pointers, int* a and int* b. <br>
