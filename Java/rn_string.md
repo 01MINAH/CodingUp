@@ -14,6 +14,10 @@ class Solution {
 }
 ```
 
+<pre>
+    java의 라이브러리 중 replace함수를 이용하여 'm'을 'rn'으로 변환해낸다.
+</pre>
+
 출처: 프로그래머스 코딩테스트 사이트
 https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=java
 
