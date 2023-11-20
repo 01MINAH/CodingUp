@@ -1,4 +1,4 @@
-### *최대 정수 출력*
+### *[Functions in C]최대 정수 출력 *
 
 *문제*
 Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
