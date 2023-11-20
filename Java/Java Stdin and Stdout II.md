@@ -28,7 +28,7 @@ public class Solution {
 }
 ```
 <pre>
-**문자열은 왜 scan.nextLine(); 를 더 붙일까?**
+<strong>문자열은 왜 scan.nextLine(); 를 더 붙일까?</strong>
 -> chatGPT 답변
 Scanner 클래스의 nextInt() 또는 nextDouble() 메서드는 숫자를 읽어오지만, 엔터(\n)를 읽지 않습니다.
 따라서, 예를 들어 사용자가 nextInt()로 정수를 입력하고 엔터 키를 누르면, 엔터 키(\n)가 남아있어서 다음 nextLine()이 곧바로 엔터를 읽어버리게 됩니다.
