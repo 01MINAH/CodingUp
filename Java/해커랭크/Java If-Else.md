@@ -1,7 +1,6 @@
 ### *Java If-Else*
 
 *문제*<br>
-<pre>
 Given an integer, n, perform the following conditional actions:
 
 If n is odd, print Weird
@@ -9,7 +8,7 @@ If n is even and in the inclusive range of 2 to 5, print Not Weird
 If n is even and in the inclusive range of 6 to 20, print Weird
 If n is even and greater than 20, print Not Weird
 Complete the stub code provided in your editor to print whether or not n is weird.
-</pre>
+
   ![image](https://github.com/minahLim/CodingTest/assets/146914181/116a273f-52cf-4393-ad45-fcd6cd679639)
 <br>
 ```java
