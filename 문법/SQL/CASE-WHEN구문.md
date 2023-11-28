@@ -12,7 +12,7 @@ END AS 컬럼명
 #### 예제
 ![image](https://github.com/minahLim/CodingTest/assets/146914181/c3faec7f-e1f1-4844-aaa5-affe4319bd29)
 
-<br> 이미지 출처: [프로그래머스 문제중]조건에 부합하는 중고거래 상태 조회하기
+ 이미지 출처: [프로그래머스 문제중]조건에 부합하는 중고거래 상태 조회하기
 ```sql
 SELECT BOARD_ID, WRITER_ID, TITLE, PRICE,
     CASE
