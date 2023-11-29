@@ -6,7 +6,7 @@
 ② TreeMap<br>
 ③ LinkedHashMap<br><br>
 
-#### ✔ Map 인터페이스
+#### ✔ Map
 * key-value 쌍의 집합
 * 각 키는 중복이 불가
 * Map 안에서 key-value에 따른 순서 없음
@@ -35,5 +35,7 @@ myMap.forEach((k, v) -> {
 
 ```
 
-#### ✔ TreeMap
-* 삽입 순서에 따라 정렬
+#### ✔ Map의 Method
+* getOrDefault(Object key, V Default) <br>
+－ key가 존재 O → 해당 key 의 value 반환 <br>
+－ key가 존재 X → default 값 반환 <br>
